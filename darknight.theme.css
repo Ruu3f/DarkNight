@@ -1,0 +1,55 @@
+/**
+ * @name DarkNight
+ * @author Ruu3f
+ * @version 1.0.0
+ * @description A clean, simple and dark Discord theme.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+:root {
+	--font-primary: "Nunito";
+	--font-display: "Nunito";
+	--spacing: 12px;
+	--roundness: 16px;
+	--header-primary: var(--text-normal);
+	--header-secondary: var(--text-muted);
+	--text-normal: #c1cae6;
+	--text-muted: #6c7599;
+	--status-danger: var(--text-danger);
+	--status-warning: var(--text-warning);
+	--status-positive: var(--text-positive);
+	--status-positive-background: var(--info-positive-background);
+	--status-warning-background: var(--info-warning-background);
+	--status-danger-background: var(--info-danger-background);
+	--interactive-normal: #7a81a1;
+	--interactive-hover: #b3b7cc;
+	--interactive-active: #c6cbd9;
+	--interactive-muted: #66697e;
+	--channels-default: var(--text-muted);
+	--background-primary: #272833;
+	--background-secondary: #1f1f2a;
+	--background-secondary-alt: #181819;
+	--background-tertiary: #1a1a22;
+	--background-accent: #4d5061;
+	--background-floating: #1a1a24;
+	--background-modifier-hover: #23233fc0;
+	--background-modifier-active: #2e304080;
+	--background-modifier-selected: #28283271;
+	--background-modifier-accent: #222229;
+	--background-mentioned: #2d2f3a;
+	--border-mentioned: #545a77;
+	--background-mentioned-hover: #383c4d;
+	--accent-color: #8db4f7;
+	--folder-color: #2b2d3bd0;
+	--folder-color-light: #383c4cd0;
+	--scrollbar-thin-thumb: transparent;
+	--scrollbar-thin-track: transparent;
+	--scrollbar-auto-thumb: #323247af;
+	--scrollbar-auto-thumb-hover: #2f2f4585;
+	--scrollbar-auto-track: transparent;
+	--scrollbar-auto-scrollbar-color-thumb: var(--scrollbar-auto-thumb);
+	--scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
+	--channeltextarea-background: var(--background-secondary);
+	--input-background: var(--background-secondary);
+}
