@@ -2,20 +2,34 @@
 
 # DarkNight
 
-A clean, simple, and dark Discord theme.
+A clean, simple and dark Discord theme.
+
+## Support this repository:
+
+- ⭐ **Star this repository:** It means a lot to me! 💕
+- 🎉 **Join my Discord Server:** Chat with me and others. [Join here](https://dsc.gg/devhub-rsgh):
+> [![DiscordWidget](https://discordapp.com/api/guilds/1137347499414278204/widget.png?style=banner2)](https://dsc.gg/devhub-rsgh)
 
 ## Installation:
 
-### [BetterDiscord](https://betterdiscord.app/)
+### BetterDiscord:
 
-1. Download the theme file, [darknight.theme.css](./darknight.theme.css).
-2. Place it in the BetterDiscord themes folder.
-3. Go to user settings, then under the BetterDiscord section, click the 'Themes' tab.
-4. You should see the theme, enable it.
+1. **Download the Theme:**
+   - [darknight.theme.css](./darknight.theme.css).
+2. **Place the Theme:**
+   - Place the downloaded theme file into BetterDiscord's themes folder.
+3. **Enable the Theme:**
+   - Go to User Settings.
+   - Under the BetterDiscord section, click the Themes tab.
+   - Enable the 'DarkNight' theme.
 
-### [Vencord](https://vencord.dev/)
+### Vencord:
 
-1. Download the theme file, [darknight.theme.css](darknight.theme.css).
-2. Go to user settings, then under the 'Vencord' section, click the 'Themes' tab.
-3. Click 'Upload Theme' and select the theme file (main.css).
-4. You should see the theme, enable it.
+1. **Download the Theme:**
+   - [darknight.theme.css](darknight.theme.css).
+2. **Upload the Theme:**
+   - Go to User Settings.
+   - Under the Vencord section, click the Themes tab.
+   - Click 'Upload Theme' and select the downloaded file.
+3. **Enable the Theme:**
+   - Enable the 'DarkNight' theme.
