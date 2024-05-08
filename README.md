@@ -7,8 +7,6 @@ A clean, simple and dark Discord theme.
 ## Support this repository:
 
 - ⭐ **Star this repository:** It means a lot to me! 💕
-- 🎉 **Join my Discord Server:** Chat with me and others. [Join here](https://dsc.gg/devhub-rsgh):
-> [![DiscordWidget](https://discordapp.com/api/guilds/1137347499414278204/widget.png?style=banner2)](https://dsc.gg/devhub-rsgh)
 
 ## Installation:
 
